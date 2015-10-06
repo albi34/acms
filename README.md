@@ -1,3 +1,2 @@
-# acms
-
-a [Sails](http://sailsjs.org) application
+# A-cms
+This is a very basic CMS using Redux+React, SailsJS and PostgreSQL
